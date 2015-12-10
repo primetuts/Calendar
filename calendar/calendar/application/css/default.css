@@ -1,0 +1,142 @@
+body, html {
+    margin: 0 auto;
+}
+body {
+    background: #fff;
+}
+#wrapper {
+    margin: 0 auto;
+    width: 1100px;
+}
+#nav {
+    background-color: #909090;
+    padding: 20px;
+    margin: 50px auto 0 auto;
+    width: 1060px;
+    height: 15px;
+}
+#nav ul {
+    margin: 0 50px;
+    padding: 0;
+}
+#nav li {
+    list-style: none;
+    display: inline;
+    padding: 5px;
+}
+#nav a {
+    text-decoration: none;
+    color: white;
+}
+#nav a:hover {
+    text-decoration: underline;
+    color: #A9C1C1;
+}
+#header {
+
+}
+#header h1 {
+    color: #FF0000;
+    text-shadow: 4px;
+}
+#footer {
+    margin: 0 auto;
+    padding: 10px 0;
+    margin-top: 5px;
+    text-align: center;
+    background-color: #909090;
+}
+#content {
+    width: 1080px;
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+#content p {
+    line-height: 130%;
+    text-align: justify;
+}
+.calendar {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+table.calendar {
+    background: #DEF;
+    border: 1px solid #999;
+    border-radius: 3px;
+    margin: auto;
+    padding: 5px;
+}
+.calendar .heading th {
+    padding: 10px;
+    color: #00620C;
+    font-size: 24px;
+}
+.title {
+    color: #A70000;
+    font-size: 18px;
+}
+.calendar .prev_class {
+    text-align: left;
+    font-size: 18px;
+}
+.calendar .next_class {
+    text-align: right;
+    font-size: 18px;
+}
+.calendar a {
+    text-decoration: none;
+    color: #A70000;
+}
+.calendar a:hover {
+    text-decoration: underline;
+    color: #73B9D1;
+}
+.calendar .weekdays td {
+    padding: 5px;
+    color: #A70000;
+    font-weight: bold;
+    font-size: 24px;
+}
+.calendar .days td {
+    width: 120px;
+    height: 90px;
+    padding: 2px;
+    border: 1px solid #999;
+    vertical-align: top;
+}
+.calendar .days td:hover {
+    background: #fff;
+}
+.calendar .highlight {
+    font-weight: bold;
+    font-size: 18px;
+    color: #002166;
+}
+.day_event, .this_day {
+    margin-bottom: 2px;
+    padding: 1px;
+}
+#form_event {
+    width: 300px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px;
+    display: none;
+}
+.selected {
+    background: #D893A1;
+}
+#form_event {
+    margin: auto;
+    margin-bottom: 10px;
+}
+.field_set {
+    display: ;
+    width: 300px;
+    background: #DEF;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #999;
+    border-radius: 5px;
+}

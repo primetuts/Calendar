@@ -1,0 +1,186 @@
+#latest_post{
+    padding:5px;
+}
+.latest_posts{
+    width:260px; 
+    float:left  
+}
+#outter{
+    width:590px;
+    height:auto;
+}
+.posttitle a, h1{
+    padding:5px 0px;
+    text-decoration: none;
+    color: #73B9D1 ;
+    display:block;
+    width:260px;
+    font-size:14px; 
+    font-family: proxima-nova-extra-condensed,"Helvetica Condensed Bold","Arial Narrow",Helvetica,Arial,sans-serif;
+    letter-spacing: -0.5px;
+    font-weight: 700;
+    line-height: 15px;
+}
+.posttitle a:hover {
+    text-decoration: underline;
+}
+
+#recent_reviews{
+    width:1100px;
+    float:left;
+    margin-bottom:15px;
+}
+#recent_reviews img{
+    width:60px;
+    height:70px;
+    padding:5px;
+    border:1px solid #909090;
+}
+#recent_reviews a{
+    
+    color:red;
+    
+    text-decoration:none;
+    
+}
+#container_2{
+    float:left;
+    width:468px;
+    text-align:center;
+}
+#amazon_ad1{
+    width:458px; 
+    margin-top: 5px; 
+    margin-left:5px;
+}
+#top_5_photo_display{
+    width:468px; 
+    float:left; 
+    margin-top: 5px;
+    
+}
+.title_class{
+    background: #909090; 
+    width:468px;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:5px;
+    float: left;
+    color:#fff;
+}
+
+#topphones {
+    width: 468px;
+    float: left;
+    margin-left:5px;
+    margin-bottom: 5px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+}
+#left_box{
+    margin-top:5px;
+    width:75px;
+    float:left;
+    
+}
+.phone {
+   width:75px;
+   text-align:center;
+   margin-bottom:15px;
+   height:70px;
+  
+}
+.phone a {
+    text-decoration: none;
+    color: #fff666;
+    float:left;
+}
+.phone span {
+    font-size: 11px;
+    font-family: Verdana;
+    line-height: 18px;
+}
+.phone img {
+    background: #fff;
+    width:70px;
+    height:70px;
+    display:block;
+    border: 1px solid #909090;
+    padding:5px 0px;
+}
+.content {
+    display:none;
+    width: 380px;    
+    background: #a1a1a1;
+    float: right;
+    padding: 2px;
+    border: 2px double #a1a1a1;
+    margin-top: 5px;
+    height:416px;
+  
+}
+.content #img_box {
+    text-align: center;
+    background: #ffffff;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+}
+.content #text_box  {
+    text-align: justify;
+    font-size: 10px;
+    font-family: Verdana;
+    line-height: 14px;
+    padding: 1px;
+}
+.content img {
+    padding:7px 0;
+    background: #fff;
+    height:140px;
+    width:120px;
+}
+.main_content {
+    width: 400px;
+}
+#topphones p {
+    padding: 5px;
+    line-height: 160%;
+    font-size: 1em;
+}
+#inner_content {
+    background: #f6f6f6;
+    border: 2px double #a1a1a1;
+    padding: 5px;
+    height:402px;
+    
+}
+
+.images{
+    text-align:center;
+}
+.images img{
+    width:66px;
+    height:80px;
+    border:1px solid #909090;
+    padding:5px 0;
+}
+.phones_by_carrier{
+    width:468px;
+    margin-top:5px;
+    margin-left:5px;
+    text-align:center;
+}
+.phones_by_carrier img{
+    width:110px;
+    height:112px;
+    padding:0px;
+    border:1px solid #909090;
+    
+}
+.phone_title_review {
+    width:280px;
+   
+    margin-top:-87px
+}
+.phone_title{
+    display: none;
+}
